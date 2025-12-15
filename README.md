@@ -1,0 +1,2 @@
+# Xbox-USB_OTG-STM32
+Xbox通过USB_OTG连接STM32 
